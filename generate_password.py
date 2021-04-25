@@ -5,7 +5,7 @@ numbers = ['1','2','3','4','5','6','7','8','9']
 
 print(" Welcome to generate Passwords : ")
 
-nr_letters = int (input (" How many letters do you like in your password ? \n "))
+nr_letters = int (input (f" How many letters do you like in your password ? \n "))
 nr_symbols = int (input (f" How many symbols do you like in your password ? \n "))
 nr_numbers = int (input (f" How many numbers do you like in your password ? \n "))
 
